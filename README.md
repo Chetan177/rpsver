@@ -22,6 +22,9 @@
   </p>
 </p>
 
+## Requirements:
+  - Mysql Server
+  
 
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/Chetan177/rpsver/issues
